@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ogląda MultiShop"];
+const statusMessages = ["Ogląda $MultiShop$"];
 
 
 let currentIndex = 0;
