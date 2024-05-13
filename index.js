@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["W GRZE"];
+const statusMessages = ["Ogląda MultiShop"];
 
 
 let currentIndex = 0;
