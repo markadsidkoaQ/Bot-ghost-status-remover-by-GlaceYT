@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ogląda $MULTISØP$"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
