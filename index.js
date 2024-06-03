@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["MULTISHØP"];
 
 
 let currentIndex = 0;
